@@ -3,7 +3,7 @@
 Code and pre-computed features for the paper:
 
 > **Improved Coarse to Fine Compound Facial Expression Classification Using Geometric and Appearance Based Features**
-> S. M. Jiddah, H. Soyel, K. Yurtkan — *Signal, Image and Video Processing* (under review)
+> S. M. Jiddah, H. Soyel, K. Yurtkan, *Signal, Image and Video Processing* (under review)
 
 This repository lets a reviewer reproduce **every reported number and all six confusion
 matrices from a single consistent run**, either directly from the provided feature files
